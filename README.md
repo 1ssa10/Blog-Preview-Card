@@ -29,7 +29,7 @@ Your users should be able to:
 
 ### Screenshot
 
-[screenshot](./-%20Blog%20Preview%20card%20-.png)
+[screenshot](blog-preview-card-main/-%20Blog%20Preview%20card%20-.png)
 
 ### Links
 
